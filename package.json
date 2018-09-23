@@ -1,0 +1,25 @@
+{
+  "name": "cepa3x2018",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C8X/cepa3x2018.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C8X/cepa3x2018/issues"
+  },
+  "homepage": "https://github.com/C8X/cepa3x2018#readme",
+  "dependencies": {
+    "colyseus": "^0.9.15",
+    "consign": "^0.1.6",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
